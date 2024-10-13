@@ -1,1 +1,1 @@
-# Calculator-based-on-Android
+# Приложение калькулятор на базе Android
